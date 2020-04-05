@@ -1,0 +1,14 @@
+.jumbotron{
+/* background-color: #77bb44; */
+}
+footer{
+  padding: 10px;
+background-color: #77bb44;
+}
+.container a{
+  list-style: none;
+}
+body{
+    padding:0px;
+    /* z-index:0; */
+}
