@@ -3,6 +3,8 @@
 }
 footer{
   padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 background-color: #77bb44;
 }
 .container a{
@@ -11,4 +13,14 @@ background-color: #77bb44;
 body{
     padding:0px;
     /* z-index:0; */
+}
+
+ul{
+  padding-left: 0px;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 30px;
 }
